@@ -1,0 +1,42 @@
+TODO :
+# express + react
+- graphql | mongo | react | redux
+- websocket | mongo | react | readux
+- rest api | postgres | react | redux 
+# express + angular
+- graphql | mongo | angular | ngrx
+- websocket | mongo | angular | ngrx
+- rest api | postgres | angular | ngrx 
+
+AUTHENTICATION :
+features :
+- basic
+- redis authentication
+- oauth
+- session
+- cookies 
+- jwt
+- RBAC (role based)
+
+- sso
+- mfa
+
+- docker
+- grafana loki
+- unit test
+- postgres
+
+AI integration :
+- deepseek chat gpt
+- resume translator
+
+WORDPRESS :
+- custom theme
+- custom form plugin
+- custom auth plugin + can store avatars
+
+FRONTEND :
+- react ts | redux | atomic => todo app
+- angular | ngrx | atomic => todo app
+- react native | redux => todo app
+
