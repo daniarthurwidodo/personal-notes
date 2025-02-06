@@ -3,10 +3,13 @@ TODO :
 - graphql | mongo | react | redux
 - websocket | mongo | react | readux
 - rest api | postgres | react | redux 
+- soap api | postgres | react | redux 
+
 # express + angular
 - graphql | mongo | angular | ngrx
 - websocket | mongo | angular | ngrx
 - rest api | postgres | angular | ngrx 
+- soap api | postgres | react | redux 
 
 TABLE PAGINATION SEARCH :
 - react | express | redis | postgres
