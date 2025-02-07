@@ -48,8 +48,9 @@ features :
 - postgres
 
 AI integration :
-- deepseek chat gpt
-- resume translator
+# golang | express | react
+    - deepseek chat gpt
+    - cv translator
 
 NODEJS webscraper :
 - express
