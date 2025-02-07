@@ -67,6 +67,7 @@ FRONTEND :
 - react native | redux => todo app
 
 MICROSERVICES CRUD :
+# golang | express
 - postgres
 - redis
 - kafka 
@@ -74,6 +75,7 @@ MICROSERVICES CRUD :
 
 
 EVENT DRIVEN CRUD API :
+# golang | express
 - postgres
 - redis
 - kafka 
