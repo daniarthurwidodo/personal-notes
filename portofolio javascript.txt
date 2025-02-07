@@ -11,6 +11,18 @@ TODO :
 - rest api | postgres | angular | ngrx 
 - soap api | postgres | react | redux 
 
+# golang + angular
+- graphql | mongo | angular | ngrx
+- websocket | mongo | angular | ngrx
+- rest api | postgres | angular | ngrx 
+- soap api | postgres | react | redux 
+
+# golang + react
+- graphql | mongo | react | redux
+- websocket | mongo | react | readux
+- rest api | postgres | react | redux 
+- soap api | postgres | react | redux 
+
 TABLE PAGINATION SEARCH :
 - react | express | redis | postgres
 - react | express | redis | mongo
@@ -68,6 +80,15 @@ EVENT DRIVEN CRUD API :
 - express
 
 FULLSTACK :
+    SIMPLE CRUD PAGINATION :
+        - kubernetes
+        - nginx + load balance + rate limiting + api gateway
+        - redis
+        - grafana
+        - node express
+        - nextjs
+        - docker
+        - ci/cd 
     CHAT :
         - react | admin | user
         - reac native | user
